@@ -56,3 +56,6 @@ Write a review or tutorial on Medium, Dev.to or personal blog.
 <img src="assets/Frame 2.png"/>
 
 Screenshot 1
+
+## Video 
+
