@@ -59,5 +59,5 @@ Screenshot 1
 
 ## Video 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://raw.githubusercontent.com/enisgjini/burger-king-card/master/assets/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 
